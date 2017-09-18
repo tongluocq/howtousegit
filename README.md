@@ -1,4 +1,3 @@
-iinnn
 
 input text 1
 
